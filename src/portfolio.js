@@ -291,13 +291,24 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "University of California, Irvine",
+      subtitle: "ACP in data science",
+      logo_path: "UCI_logo.png",
+      alt_name: "uci",
+      duration: "2022 - Present",
+      descriptions: [
+        "⚡ [A Remplir] I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+      ],
+      website_link: "https://uci.edu",
+    },
+    {
       title: "École Supérieure d'Ingénieurs en Electrotechnique et Electronique Paris",
-      subtitle: "Engineer School",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
+      subtitle: "Master in enginering",
+      logo_path: "esiee_logo.png",
+      alt_name: "esiee",
       duration: "2018 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "⚡ [A Remplir] I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
