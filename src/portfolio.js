@@ -244,7 +244,8 @@ const skills = {
 
 // Education Page
 const competitiveSites = {
-  
+  competitiveSites: [
+        ]
 };
 
 const degrees = {
@@ -305,15 +306,6 @@ const certifications = {
       alt_name: "volatire",
       color_code: "#C1C1C1",
     },
-    /*{
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },*/
   ],
 };
 
@@ -325,44 +317,6 @@ const experience = {
     "Here you can find all the experiences that shaped the man I am today",
   header_image_path: "experience.svg",
   sections: [
-    /*{
-      title: "Work",
-      experiences: [
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
-      ],
-    },*/
     {
       title: "Internships",
       experiences: [
@@ -438,7 +392,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  /*data: [
+  data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Artificial Intelligence Paper",
@@ -479,7 +433,7 @@ const publications = {
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
     },
-  ],*/
+  ],
 };
 
 // Contact Page
